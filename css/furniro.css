@@ -508,6 +508,7 @@ header .icon i {
     right: 55px;
     z-index: 2;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); 
+    cursor: pointer;
 }
 .room .text {
     height: 100%;
