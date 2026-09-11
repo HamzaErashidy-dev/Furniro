@@ -301,7 +301,7 @@ header .icon i {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(381px, 1fr));
     gap: 20px;  
-    justify-content: space-around;  
+    justify-content: center;  
     padding-top: 50px;
 }
 .range .box-images .image div{
@@ -348,6 +348,7 @@ header .icon i {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(285px, 1fr));
     gap: 32px;
+    justify-content: center;
     padding-top: 32px;
 }
 .our-product .box-products .product {
