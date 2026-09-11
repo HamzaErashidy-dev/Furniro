@@ -299,7 +299,7 @@ header .icon i {
 }
 .range .box-images {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(381px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
     gap: 20px;  
     justify-content: center;  
     padding-top: 50px;
@@ -319,8 +319,13 @@ header .icon i {
     padding-top: 30px
 }
 @media (max-width: 767px) {
+    .range .container {
+        padding: 0 ;
+    }
     .range .box-images {
         gap: 40px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
     .range .box-images .image h3 {
         padding-top: 15px;
@@ -1020,7 +1025,6 @@ header .icon i {
     }   
 }
 /* End Footer */
-
 
 
 
