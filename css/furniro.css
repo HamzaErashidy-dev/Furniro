@@ -320,12 +320,12 @@ header .icon i {
 }
 @media (max-width: 767px) {
     .range .container {
-        padding: 0 ;
+        padding: 0 15px;
     }
     .range .box-images {
         gap: 40px;
-        padding-left: 15px;
-        padding-right: 15px;
+        /* padding-left: 15px;
+        padding-right: 15px; */
     }
     .range .box-images .image h3 {
         padding-top: 15px;
