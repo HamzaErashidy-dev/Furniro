@@ -3,7 +3,7 @@
 A responsive furniture e-commerce landing page built from scratch using a Figma design.
 
 ## 🚀 Live Demo
-[View Live Demo](رابط الـ GitHub Pages)
+[View Live Demo](https://hamzaerashidy-dev.github.io/Furniro/)
 
 ## 🛠️ Technologies Used
 - HTML5
