@@ -599,6 +599,7 @@ header .icon i {
     justify-content: center;
     right: -48px;
     bottom: 0;
+    cursor: pointer;
 }
 .room .box-images .image .dots {
     display: flex;
